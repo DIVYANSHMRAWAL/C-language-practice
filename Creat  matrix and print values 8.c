@@ -1,7 +1,7 @@
-QUESTION:--
-Creat 3*3 matrix and print values.
+//QUESTION:--
+//Creat 3*3 matrix and print values.
 
-ANSWER:--
+//ANSWER:--
 #include <stdio.h>
 int main(){
 //creating matrix:-
