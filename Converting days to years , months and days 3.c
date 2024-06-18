@@ -1,5 +1,5 @@
 /*QUESTION :--
-Write a C program to convert a given integer (in days) to years, months and days, assuming that all months have 30 days and all years have 365 days.*/
+//Write a C program to convert a given integer (in days) to years, months and days, assuming that all months have 30 days and all years have 365 days.*/
 
 //ANSWER :--
 #include <stdio.h>
