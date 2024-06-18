@@ -1,7 +1,7 @@
-QUESTION :--
-Check number is even or odd using C language.
+//QUESTION :--
+//Check number is even or odd using C language.
 
-ANSWER :--
+//ANSWER :--
 #include <stdio.h>
 #include <stdlib.h>
 
